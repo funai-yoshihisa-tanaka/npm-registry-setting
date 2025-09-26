@@ -1,0 +1,1 @@
+npm login --registry=https://registry.funaisoken.dpdns.org/repository/npm-all/
